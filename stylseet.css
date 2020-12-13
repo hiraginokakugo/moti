@@ -1,0 +1,115 @@
+.top-wrapper{
+  padding:100px 0px 100px 0px;
+  background-image: url("S__4014188.jpg");
+  background-size:cover;
+  text-align: center;
+  color:white;
+  width:100%;
+
+}
+
+.top-wrapper span{
+  color:white;
+  padding: 0 0 10px 0;
+}
+
+.top-wrapper p{
+   text-align:right;
+}
+
+
+.header{
+   text-align: center;
+}
+
+
+.btn-wrapper {
+  padding: 50px 0px;
+}
+
+.btn-wrapper h3{
+  color:black;
+
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn {
+  padding: 5px 18px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+
+.int-wrapper{
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+}
+
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 13px;
+  color: #b3aeb5;
+}
+
+
+
+
+
+
+
+
+
+
+.footer-wrapper{
+   text-align: center;
+}
+
+.line {
+  padding: 10px 30px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 1px 6px #1a7940;
+  border-radius: 4px;
+}
+
+.line:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
